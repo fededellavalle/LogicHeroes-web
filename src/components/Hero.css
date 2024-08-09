@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'TBJ';
+    src: url('../fonts/fuenteTBJ.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    background: linear-gradient(to bottom, #1e1e1e, #56378f);
+}
+
+.hero .content {
+    max-width: 50%;
+    padding: 0 5%;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin: 0 0 20px;
+    color: #fff;
+    font-family: 'TBJ', sans-serif;
+}
+
+.hero p {
+    font-size: 24px;
+    margin: 0 0 40px;
+    color: #fff;
+    font-family: 'TBJ', sans-serif;
+}
+
+.hero .cta-button {
+    background-color: #3c34a4;
+    color: #ffffff;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 5px;
+    font-family: 'TBJ', sans-serif;
+}
+
+.hero .cta-button:hover{
+    background-color: #221d64;
+}
+
+
+.hero .media {
+    position: relative;
+    max-width: 45%;
+    overflow: hidden;
+    padding: 0 5%;
+}
+
+.carousel-image {
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+.controls {
+    position: absolute;
+    top: 50%;
+    width: 77.8%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+
+.prev-button,
+.next-button {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.prev-button:hover,
+.next-button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.hero .new-badge {
+    position: absolute;
+    top: 4%;
+    right: 12%;
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 14px;
+}
+
+.dots {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.dot.active {
+    background-color: #3c34a4;
+}
