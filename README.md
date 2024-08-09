@@ -1,1 +1,1 @@
-# LogicHeoreos-web
+# Web de LogicHeroes
