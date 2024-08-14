@@ -41,10 +41,6 @@ const Hero = () => {
                     className="carousel-image"
                 />
                 <span className="new-badge">¡Nuevo!</span>
-                <div className="controls">
-                    <button onClick={goToPreviousImage} className="prev-button">←</button>
-                    <button onClick={goToNextImage} className="next-button">→</button>
-                </div>
                 <div className="dots">
                     {images.map((_, index) => (
                         <span
