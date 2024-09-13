@@ -19,6 +19,22 @@ La página web de Logic Heroes tiene como objetivo introducir a los usuarios al 
 - **React**: Para construir la interfaz de usuario de forma eficiente.
 - **Git**: Control de versiones.
 
+## **Instalación y Ejecución**
+
+Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
+
+1. Clona este repositorio:
+   git clone https://github.com/fededellavalle/LogicHeroes-web.git
+   
+2. Navega al directorio del proyecto:
+   cd "tu directorio"
+   
+3. Instala las dependencias:
+   npm install
+   
+4. Ejecuta el proyecto en modo de desarrollo:
+   npm start
+
 ## **Contacto**
 
 - **Nombre**: Federico Matias Dellavalle
