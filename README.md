@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# **Logic Heroes - Web Presentation**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es la página web de presentación para el juego Logic Heroes, un juego educativo diseñado para enseñar los conceptos básicos de programación de una forma divertida y accesible. La página ofrece una descripción del juego, sus características y un diseño interactivo y atractivo para captar la atención de los usuarios.
 
-## Available Scripts
+## **Descripción del Proyecto**
 
-In the project directory, you can run:
+La página web de Logic Heroes tiene como objetivo introducir a los usuarios al mundo del juego, explicando su dinámica y las habilidades que pueden adquirir a través de él. Presenta una interfaz moderna y dinámica, centrada en los beneficios de aprender lógica y programación mientras se juega. La web es totalmente responsive, lo que garantiza una buena experiencia en cualquier dispositivo.
 
-### `npm start`
+## **Características Principales**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Diseño Moderno y Responsivo**: Se adapta a dispositivos móviles, tabletas y escritorios.
+- **Introducción al Juego**: Presenta de manera clara y sencilla las mecánicas del juego y sus objetivos.
+- **Interfaz Interactiva**: Se incluye una breve presentación animada para destacar la jugabilidad y beneficios educativos.
+- **Enlaces Rápidos**: Botones que redirigen a la descarga del juego y a información adicional.
+- **Carrousel Visual**: Presenta capturas de pantalla y momentos clave del juego.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## **Tecnologías Utilizadas**
 
-### `npm test`
+- **React**: Para construir la interfaz de usuario de forma eficiente.
+- **Git**: Control de versiones.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **Contacto**
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Nombre**: Federico Matias Dellavalle
+- **Email**: fededellavalle02@gmail.com
